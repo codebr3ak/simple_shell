@@ -2,7 +2,7 @@
 ======================
 
 -   By Julien Barbier
--   Project to be done in teams of 2 people (your team: Ralph Baraka
+-   Project to be done in teams of 2 people (your team: Ralph Baraka and Brian Wanjala.
 
 Background Context
 ------------------
