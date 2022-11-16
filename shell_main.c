@@ -17,7 +17,6 @@
  * Return: 0 on success
  */
 
-
 int main(int argc __attribute__((unused)), char **argv)
 {
 	char **current_command = NULL;
